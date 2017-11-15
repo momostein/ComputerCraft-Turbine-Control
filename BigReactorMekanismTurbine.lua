@@ -6,6 +6,7 @@ function CheckErrors ()
 
 	if monitorsCheck[1] == nil then
 		error("No monitor detected")
+<<<<<<< HEAD
 	end
 
 	if reactorsCheck[1] == nil then
@@ -18,3 +19,9 @@ function CheckErrors ()
 end
 
 CheckErrors()
+=======
+
+	end
+
+end
+>>>>>>> master

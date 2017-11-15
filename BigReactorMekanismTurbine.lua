@@ -19,9 +19,3 @@ function CheckErrors ()
 end
 
 CheckErrors()
-=======
-
-	end
-
-end
->>>>>>> master

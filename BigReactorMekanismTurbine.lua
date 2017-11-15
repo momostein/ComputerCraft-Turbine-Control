@@ -6,7 +6,7 @@ function CheckErrors ()
 
 	if monitorsCheck[1] == nil then
 		error("No monitor detected")
-<<<<<<< HEAD
+<<<<<<< current
 	end
 
 	if reactorsCheck[1] == nil then
@@ -19,3 +19,17 @@ function CheckErrors ()
 end
 
 CheckErrors()
+=======
+	end
+
+	if reactorsCheck[1] == nil then
+		error("No reactor detected")
+	end
+
+	if turbinesCheck[1] == nil then
+		error("No reactor detected")
+	end
+end
+
+CheckErrors()
+>>>>>>> before discard
